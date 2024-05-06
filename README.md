@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rust-web-server.git
+   git clone https://github.com/smithd36/rust-web-server.git
    cd rust-web-server
 
 2. Build the project:
@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed on your system:
    ```bash
     `cargo run` --release`
 
-4. Open your browser and navigate to `http://localhost:8080` to see the server in action.
+4. Open your browser and navigate to `http://localhost:3000` to see the server in action.
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or new features to add.
